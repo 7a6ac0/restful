@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"github.com/coderminer/restful/auth"
-	"github.com/coderminer/restful/controllers"
+	"github.com/7a6ac0/restful/auth"
+	"github.com/7a6ac0/restful/controllers"
 	"github.com/gorilla/mux"
 )
 

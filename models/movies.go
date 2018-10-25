@@ -1,6 +1,6 @@
 package models
 
-import "github.com/globalsign/mgo/bson"
+import "gopkg.in/mgo.v2/bson"
 
 type Movies struct {
 	Id          bson.ObjectId `bson:"_id" json:"id"`

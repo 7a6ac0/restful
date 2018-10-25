@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/coderminer/restful/auth"
-	"github.com/coderminer/restful/helper"
-	"github.com/coderminer/restful/models"
-	"github.com/globalsign/mgo/bson"
+	"github.com/7a6ac0/restful/auth"
+	"github.com/7a6ac0/restful/helper"
+	"github.com/7a6ac0/restful/models"
+	"gopkg.in/mgo.v2/bson"
 )
 
 const (

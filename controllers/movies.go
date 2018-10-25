@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/coderminer/restful/models"
-	"github.com/globalsign/mgo/bson"
+	"github.com/7a6ac0/restful/models"
 	"github.com/gorilla/mux"
+	"gopkg.in/mgo.v2/bson"
 )
 
 var (

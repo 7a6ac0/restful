@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/coderminer/restful/routes"
+	"github.com/7a6ac0/restful/routes"
 )
 
 func main() {
