@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/7a6ac0/restful/models"
+	"github.com/globalsign/mgo/bson"
 	"github.com/gorilla/mux"
-	"gopkg.in/mgo.v2/bson"
 )
 
 var (

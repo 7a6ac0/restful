@@ -7,7 +7,7 @@ import (
 	"github.com/7a6ac0/restful/auth"
 	"github.com/7a6ac0/restful/helper"
 	"github.com/7a6ac0/restful/models"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/globalsign/mgo/bson"
 )
 
 const (
